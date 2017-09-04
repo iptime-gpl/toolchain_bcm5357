@@ -1,0 +1,6 @@
+#define UTS_VERSION "#136 Wed May 14 19:38:54 KST 2008"
+#define LINUX_COMPILE_TIME "19:38:54"
+#define LINUX_COMPILE_BY "bcm"
+#define LINUX_COMPILE_HOST "perrier"
+#define LINUX_COMPILE_DOMAIN ""
+#define LINUX_COMPILER "gcc version 3.2.3 with Broadcom modifications"
